@@ -1,0 +1,2 @@
+Public static class Main{
+}
